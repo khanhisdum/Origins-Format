@@ -2,7 +2,7 @@
     "pack": {
         "name": "Name_Origin",
         "id": "ID_of_Origin",
-        "pack_format": 88.0,
+        "pack_format": "Pack_Format_for_Minecraft",
         "version": "1.0.0",
         "authors": [
             "Your_Author_Name"
