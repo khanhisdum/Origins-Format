@@ -1,0 +1,13 @@
+{
+    "name": "Origin_Name",
+    "description": "Description_of_Your_Origin",
+    "powers": [
+        "Power_1",
+        "Power_2"
+    ],
+    "icon": {
+        "item": "Item_that_Represent_the_origin",
+        "amount": 1
+    },
+    "impact": "Imapact of the origin"
+}

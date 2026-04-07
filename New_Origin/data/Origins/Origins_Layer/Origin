@@ -1,0 +1,7 @@
+{
+"origins": [
+        "Origin_Name:Origin_Name"
+    ],
+    "enabled": true,
+    "allow_random": true
+}
